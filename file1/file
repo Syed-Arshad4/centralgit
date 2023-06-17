@@ -1,0 +1,2 @@
+what a tought
+ssh -i "syedarsha.pem" ec2-user@ec2-3-252-190-92.eu-west-1.compute.amazonaws.com
